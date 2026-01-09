@@ -5,10 +5,10 @@
     "author": "Jeremy Díaz",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/jevmydev/mathai.git"
+        "url": "git+https://github.com/jeremy-cdc/mathai.git"
     },
     "bugs": {
-        "url": "https://github.com/jevmydev/mathai/issues"
+        "url": "https://github.com/jeremy-cdc/mathai/issues"
     },
     "icons": [
         {
